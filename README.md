@@ -4,7 +4,7 @@
 
 # Awesome book stores
 
-> The webpage about the fifa world cup that will be in qatar
+> A simple website adding, removing books
 
 
 
@@ -16,7 +16,7 @@ A simple website for a technology global summit
 
 ## Live Demo
 
-[Live Demo Link](https://kimutai01.github.io/html-css-capstone/)
+[Live Demo Link]()
 
 
 ## Getting Started
